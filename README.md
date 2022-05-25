@@ -1,4 +1,4 @@
-# Grosery-website                                                                                                                                                       
+# Grocery-website                                                                                                                                                       
 Created E-Commerce Website landing page.                                                                                                                                  
 Features:Hover Animation.                                                                                                                                                 
 Tech Stack:Html,Css,JavaScript.                                                                                                                                           
